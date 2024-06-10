@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.cinema__container {
+  text-align: center;
+}
+.cinema__container .nameui {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cinema__container .nameui .nameli {
+  font-size: 1rem;
+}/*# sourceMappingURL=index.css.map */
